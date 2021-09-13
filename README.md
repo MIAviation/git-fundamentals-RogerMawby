@@ -1,4 +1,5 @@
 # :wave: The Basics of GitHub 
+Hello, my name is J. 
 
 ## 🤓 Course overview and learning outcomes 
 
